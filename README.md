@@ -34,7 +34,7 @@ staybnb-frontend_project/
 
 ## Screenshots
 
-### Homepage
+### Home Page
 
 <img width="1365" height="636" alt="Screenshot 2026-07-02 183949" src="https://github.com/user-attachments/assets/a31627ee-9f70-46ae-86d5-d651a9c83d94" />
 <img width="1365" height="635" alt="Screenshot 2026-07-02 184015" src="https://github.com/user-attachments/assets/ad8a2a77-7d0a-4750-bfe0-03f7489432ae" />
@@ -50,7 +50,7 @@ staybnb-frontend_project/
 
 
 
-### Property Details
+### Property Details Page
 
 <img width="1365" height="636" alt="Screenshot 2026-07-03 124833" src="https://github.com/user-attachments/assets/d2523019-a3a0-4a0a-889c-448e7aef7347" />
 <img width="1365" height="632" alt="Screenshot 2026-07-03 124942" src="https://github.com/user-attachments/assets/d0916552-a35c-4656-a102-b14ca9109433" />
